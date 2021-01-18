@@ -1,0 +1,183 @@
+{
+  "id": "fire",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "RetrieveEntry"
+  },
+  "results": [
+    {
+      "id": "fire",
+      "language": "en-gb",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "senses": [
+                {
+                  "definitions": [
+                    "a process in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke; combustion or burning"
+                  ],
+                  "id": "m_en_gbus0363890.006",
+                  "subsenses": [
+                    {
+                      "definitions": ["a destructive burning of something"],
+                      "id": "m_en_gbus0363890.008"
+                    },
+                    {
+                      "definitions": [
+                        "a collection of fuel, especially coal or wood, burnt in a controlled way to provide heat or a means for cooking"
+                      ],
+                      "id": "m_en_gbus0363890.011"
+                    },
+                    {
+                      "definitions": [
+                        "a domestic heating appliance that uses electricity or gas as fuel"
+                      ],
+                      "id": "m_en_gbus0363890.012"
+                    },
+                    {
+                      "definitions": [
+                        "one of the four elements in ancient and medieval philosophy and in astrology (considered essential to the nature of the signs Aries, Leo, and Sagittarius)"
+                      ],
+                      "id": "m_en_gbus0363890.015"
+                    }
+                  ]
+                },
+                {
+                  "definitions": ["a burning sensation"],
+                  "id": "m_en_gbus0363890.017",
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "fervent or passionate emotion or enthusiasm"
+                      ],
+                      "id": "m_en_gbus0363890.018"
+                    },
+                    {
+                      "definitions": ["a glowing or luminous quality"],
+                      "id": "m_en_gbus0363890.019"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "the shooting of projectiles from weapons, especially bullets from guns"
+                  ],
+                  "id": "m_en_gbus0363890.021",
+                  "subsenses": [
+                    {
+                      "definitions": ["strong criticism or antagonism"],
+                      "id": "m_en_gbus0363890.022"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "en-gb",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "text": "fire"
+        },
+        {
+          "entries": [
+            {
+              "senses": [
+                {
+                  "definitions": [
+                    "discharge a gun or other weapon in order to propel (a bullet or projectile)"
+                  ],
+                  "id": "m_en_gbus0363890.025",
+                  "subsenses": [
+                    {
+                      "definitions": ["discharge (a gun or other weapon)"],
+                      "id": "m_en_gbus0363890.031"
+                    },
+                    {
+                      "definitions": ["(of a gun) be discharged"],
+                      "id": "m_en_gbus0363890.032"
+                    },
+                    {
+                      "definitions": [
+                        "(of a nerve or muscle cell) generate an impulse or contraction"
+                      ],
+                      "id": "m_en_gbus0363890.108"
+                    },
+                    {
+                      "definitions": [
+                        "direct (questions or statements, especially unwelcome ones) towards someone in rapid succession"
+                      ],
+                      "id": "m_en_gbus0363890.033"
+                    },
+                    {
+                      "definitions": ["send a message aggressively"],
+                      "id": "m_en_gbus0363890.034"
+                    }
+                  ]
+                },
+                {
+                  "definitions": ["dismiss (an employee) from a job"],
+                  "id": "m_en_gbus0363890.036"
+                },
+                {
+                  "definitions": ["supply (a furnace, engine, etc.) with fuel"],
+                  "id": "m_en_gbus0363890.038",
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of an internal combustion engine) undergo ignition of its fuel when started"
+                      ],
+                      "id": "m_en_gbus0363890.039"
+                    },
+                    {
+                      "definitions": ["start (an engine or other device)"],
+                      "id": "m_en_gbus0363890.040"
+                    },
+                    {
+                      "definitions": ["set fire to"],
+                      "id": "m_en_gbus0363890.041"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "stimulate or excite (the imagination or an emotion)"
+                  ],
+                  "id": "m_en_gbus0363890.043",
+                  "subsenses": [
+                    {
+                      "definitions": ["fill (someone) with enthusiasm"],
+                      "id": "m_en_gbus0363890.044"
+                    },
+                    {
+                      "definitions": ["show sudden anger"],
+                      "id": "m_en_gbus0363890.045"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "bake or dry (pottery, bricks, etc.) in a kiln"
+                  ],
+                  "id": "m_en_gbus0363890.047"
+                }
+              ]
+            }
+          ],
+          "language": "en-gb",
+          "lexicalCategory": {
+            "id": "verb",
+            "text": "Verb"
+          },
+          "text": "fire"
+        }
+      ],
+      "type": "headword",
+      "word": "fire"
+    }
+  ],
+  "word": "fire"
+}

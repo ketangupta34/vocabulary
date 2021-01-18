@@ -1,0 +1,79 @@
+.wordDetails {
+  cursor: pointer;
+  margin: 5px;
+  padding: 10px;
+  border-bottom: 2px solid lightgray;
+}
+.wordDetails:hover {
+  transform: scale(1.004);
+  transition: all 0.2s ease-in;
+}
+
+.wordsDetailsFull {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.wordsDetailInner {
+  width: 40%;
+  height: 40%;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.wordHeading {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.closeIcon {
+  cursor: pointer;
+  color: purple;
+}
+.closeIcon:hover {
+  transform: scale(1.1);
+  transition: all 0.2s ease-in;
+}
+
+.definitionInner {
+  margin: 0 20%;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.removeButtonDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.removeButton {
+  width: 160px;
+  height: 40px;
+  font-size: 18px;
+  background-color: purple;
+  border-radius: 20px;
+  color: white;
+  outline: none;
+  border: none;
+}
+.removeButton:hover {
+  cursor: pointer;
+  transform: scale(1.01);
+  transition: all 0.22s;
+}

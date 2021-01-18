@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.logoName {
+  color: white;
+  font-size: 26px;
+}
+.searchWord {
+  width: 30%;
+  display: flex;
+  align-items: center;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 2px;
+  font-size: 18px;
+  color: white;
+  background-color: purple;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid white;
+}
+
+.searchButton {
+  cursor: pointer;
+  margin-left: 10px;
+  color: white;
+}
+.searchButton:hover {
+  transform: scale(1.05);
+  transition: all 0.2s ease;
+}
